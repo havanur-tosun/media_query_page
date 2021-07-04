@@ -44,6 +44,7 @@ span {
     }
     .navbar {
         display: flex;
+        flex-direction: row-reverse;
         justify-content: space-around;
         background-color: #555;
     }
